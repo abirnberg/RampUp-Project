@@ -1,0 +1,145 @@
+@charset "UTF-8";
+
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background-color: whitesmoke;
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+
+#container {
+
+	width: 1024px;
+	display: block;
+	min-height: 600px;
+	margin: 0 auto;
+	padding: 0;
+	background-color: white;
+	color: black;
+	text-align: center;
+	overflow: hidden;
+	font-size: 40px;
+	font-family: 'Amatic SC', cursive;
+}
+
+.header {
+
+	position: fixed;
+	display: block;
+	background-color: white;
+	padding: 10px;
+	
+}
+
+.pre-header{
+
+	width: 100%;
+	background-color: white;
+	height: 40px;
+	display: block;
+	clear:both;
+	margin-top: 0.5em;
+	margin-botton: 0.5em;
+	font-size: 50px;
+
+}
+
+.logo {
+	width: 100%;
+	background: white;
+	clear: both;
+	font-size: 20px;
+	margin-top: 2.5em;
+    margin-bottom: 1.5em;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    width: 200px;
+    font-size: 30px;
+}
+	
+.search-li {
+
+cursor: pointer;
+margin-right: 0 !important;
+
+}
+
+.main-header{
+
+	width: 100%;
+	background-color: white;
+	height: .1px;
+	display: block;
+	clear:both;
+}
+
+.main-products{
+
+	width: 100%;
+	background-color: white;
+	height: 50px;
+	display: block;
+	clear:both;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+	width: 400px;    
+} 
+
+br {
+
+	font-size: 20px;
+	
+}
+
+.testhey {
+
+	margin-top: .01em;
+	padding-bottom: 20%;
+	
+}
+
+.olderpostsleft {
+
+	width: 100%;
+	text-align: left;
+	display: block;
+	padding-left: 2%;
+	font-size: 30px;
+
+}
+
+.footer {
+
+	width: 100%;
+	background-color: white;
+	height: 70px;
+	display: block;
+	clear:both;
+}
+	
+.hrlong {
+
+	width: 90%;
+	
+}
